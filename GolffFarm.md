@@ -1,6 +1,6 @@
 <div>
   
-  <font color=white>
+  <font color=red>
 
 ### Golff Farm (BSC) will add GOF pool (Mine PIGGY)
 
@@ -14,9 +14,11 @@ Golff Finance and Piggy Finance have become strategic partners to build the DeFi
   
 </div>
 
-<div color="red">
+<font color=#008000>
+  
 | 一个普通标题 | 一个普通标题 | 一个普通标题 |
 | ------ | ------ | ------ |
 | 短文本 | 中等文本 | 稍微长一点的文本 |
 | 稍微长一点的文本 | 短文本 | 中等文本 |
-</div>
+  
+</font>
