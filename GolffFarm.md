@@ -22,3 +22,7 @@ Golff Finance and Piggy Finance have become strategic partners to build the DeFi
 | 稍微长一点的文本 | 短文本 | 中等文本 |
   
 </font>
+
+<font color=red>红色</font>
+
+<center><table><td bgcolor=red><font  size=6 face="黑体">6号黑体居中(标题)</font></td></table></center>
